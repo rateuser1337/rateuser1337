@@ -12,7 +12,7 @@
   <a href="mailto:mail@example.com">
     <img src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://instagram.com/denizincx">
+  <a href="https://instagram.com/1337">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=rateuser1337&style=for-the-badge&color=7aa2f7&labelColor=1a1b26&label=PROFILE+VIEWS" />
