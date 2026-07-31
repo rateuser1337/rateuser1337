@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, ben rateuser1337</h1>
 
 <p align="center">
-  Kod yazıyorum, öğreniyorum ve güzel projeler yapmaya çalışıyorum 🚀
+  1337
 </p>
 
 <p align="center">
@@ -22,10 +22,9 @@
 
 ### 👨💻 About Me
 
-- 💻 Fikirleri koda dönüştürmeyi seviyorum  
-- 🚀 Web teknolojileriyle projeler geliştiriyorum  
-- 📚 Sürekli öğreniyorum  
-- 🤝 Açık kaynak ve ekip işlerine açığım  
+discord developer 
+
+JS , MJS , RUST , C+ , C++ 
 
 ---
 
